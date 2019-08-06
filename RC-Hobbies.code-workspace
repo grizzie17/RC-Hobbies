@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+
+		"github.repositories": [
+			"grizzie17/RC-Hobbies"
+		],
+		"github.host": "github.com",
+		"github.username": "grizzie17",
+		"githubPullRequests.hosts": [
+			{
+				"host": "https://github.com",
+				"username": "grizzie17"
+			}
+		],
+		"composer.executablePath": "C:\\ProgramData\\ComposerSetup\\bin\\composer.bat",
+		"php.executablePath": "C:\\php\\php.exe",
+		"php.validate.enable": true,
+		"php.validate.executablePath": "C:\\php\\php.exe",
+		"php.validate.run": "onType"
+		//"docker.attachShellCommand.windowsContainer": "powershell",
+		//"docker.showExplorer": true
+	},
+	"extensions": {
+		"recommendations": [
+			"laurenttreguier.uncrustify",
+			"github.vscode-pull-request-github",
+			"felixfbecker.php-pack",
+			"dotjoshjohnson.xml"
+		]
+	}
+}
